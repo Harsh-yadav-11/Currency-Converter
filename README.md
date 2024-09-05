@@ -2,6 +2,8 @@
 Features:
 
 - Real-time exchange rate updates
+- Support for 150+ currencies
+- User-friendly interface
 - User-friendly interface
 
 Technologies Used:
@@ -22,8 +24,8 @@ Project Structure:
 
 - index.html: The main HTML file
 - styles.css: CSS styles for the app
-- script.js: JavaScript code for the app
-- api.js: API calls for exchange rates
+- app.js: JavaScript code for the app
+- code.js: Country code and Their currency code
 
 Author:
 
